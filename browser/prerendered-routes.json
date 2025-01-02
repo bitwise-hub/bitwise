@@ -1,0 +1,14 @@
+{
+  "routes": [
+    "/",
+    "/addStocksData",
+    "/addWriter",
+    "/articleForm",
+    "/articleSelected",
+    "/deleteWriter",
+    "/emailControls",
+    "/signUp",
+    "/suggestions",
+    "/writerLogin"
+  ]
+}
