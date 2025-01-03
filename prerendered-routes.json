@@ -9,6 +9,7 @@
     "/emailControls",
     "/signUp",
     "/suggestions",
+    "/updateNewsLetter",
     "/writerLogin"
   ]
 }
